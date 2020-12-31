@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+<img src="https://avatars2.githubusercontent.com/u/74673233?s=400&v=4" />
+### About Me
+I am Mozhgan I have been playing the piano since I was 10 years old I study computer engineering At Payame Noor University, North Tehran
+### phon number
+09192135710
 
-You can use the [editor on GitHub](https://github.com/ImanLankarani/iman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal information
+First name : Mozhgan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Last name : Mottaghi sabet
 
-### Markdown
+Birth Day : Esfand 1378
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages
+Persian
 
-```markdown
-Syntax highlighted code block
+English(Intermediate)
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
+ + Piano playing
+ + painting
+ + ICDL courses
+ + C++ Programming
+ + Sql programming
 
-- Bulleted
-- List
+### Work Experience
+Teaching piano
 
-1. Numbered
-2. List
+University projects designing and implementation.
 
-**Bold** and _Italic_ and `Code` text
+### Certifications
+ICDL certificate
 
-[Link](url) and ![Image](src)
-```
+Piano certificate
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+C++ university certificat
 
-### Jekyll Themes
+SQL Server certificate.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ImanLankarani/iman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact Me
+- Gmail: mozhgan2016@gmail.com
 
-### Support or Contact
+- Quera Profile: <a href="https://quera.ir/profile/mozhgan2016">My Profile</a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### درباره من
+من مژگان هستم و از10 سالگی به نواختن پیانو ادمه دادم .
+من در دانشگاه پیام نور واحد تهران شمال در رشته مهندسی کامپیوتر تحصیل می کنم
+
+### شماره تماس 
+09192135710
+
+### اطلاعات شخصی
+نام: مژگان
+
+نام خانوادگی : متقی ثابت
+
+تولد: اسفند 1378
+
+### زبان
+فارسی
+
+(انگلیسی  (متوسط
+
+### مهارت ها
+
+نواختن پیانو
+
+طراحی با سیاه قلم و مداد رنگی
+
+ ICDL مهارت های 
+
+C++ زبان برنامه نویسی
+
+SQL برنامه نویسی به زبان
+
+### سوابق کاری
+تدریس نواختن پیانو
+
+طراحی و پیاده سازی پروژه های درسی دانشگاهی
+
+### گواهی مهارت 
+مدرک پیانو
+
+ICDL گواهی پایان دوره
+
+ در دانشگاه SQL Server،C++ گذراندن دوره های برنامه نویسی
